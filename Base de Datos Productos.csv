@@ -436,7 +436,7 @@ Fecha Ingreso,Producto,Cantidades,Costo Unit
 30-mar-20,Fiddlehead - Frozen,2,13
 17-sep-21,Bread - Rye,3,7
 20-feb-20,Cheese - Brick With Pepper,2,48
-23-jul-21,Basil - Dry, Rubbed,3,13
+23-jul-21,Basil - Dry- Rubbed,3,13
 26-feb-21,Wine - Rioja Campo Viejo,3,3
 2-ago-21,Beer - Corona,1,35
 30-ago-21,Halibut - Fletches,2,37
@@ -448,8 +448,8 @@ Fecha Ingreso,Producto,Cantidades,Costo Unit
 19-mar-22,Paper Towel Touchless,1,7
 4-jun-21,Pants Custom Dry Clean,2,26
 20-nov-20,Wine - Shiraz South Eastern,3,19
-18-oct-21,Beef - Roasted, Cooked,2,39
-10-mar-20,Bread - Rolls, Rye,3,41
+18-oct-21,Beef - Roasted- Cooked,2,39
+10-mar-20,Bread - Rolls- Rye,3,41
 27-jul-20,Icecream Cone - Areo Chocolate,2,43
 4-may-21,Bread - Rye,1,7
 20-jun-22,Soup V8 Roasted Red Pepper,2,38
@@ -458,13 +458,13 @@ Fecha Ingreso,Producto,Cantidades,Costo Unit
 11-oct-20,Fiddlehead - Frozen,1,13
 15-abr-21,Basil - Dry, Rubbed,3,13
 26-abr-20,Pancetta,3,45
-17-mar-20,Beef - Roasted, Cooked,2,39
+17-mar-20,Beef - Roasted- Cooked,2,39
 10-mar-20,Juice - Lagoon Mango,3,34
 18-feb-20,Paper Towel Touchless,1,7
 25-jul-20,Cheese - Brick With Pepper,1,48
 21-nov-21,Coffee Cup 16oz Foam,2,30
 20-dic-21,Cabbage - Savoy,2,40
-17-abr-21,Bread - Rolls, Rye,2,41
+17-abr-21,Bread - Rolls- Rye,2,41
 25-ene-21,Ham - Virginia,1,27
 19-sep-21,Instant Coffee,3,25
 26-abr-22,Liners - Baking Cups,3,50
@@ -473,7 +473,7 @@ Fecha Ingreso,Producto,Cantidades,Costo Unit
 26-sep-21,Pants Custom Dry Clean,2,26
 18-oct-21,Icecream Cone - Areo Chocolate,1,43
 15-ago-21,Soup - Canadian Pea, Dry Mix,1,14
-23-jul-22,Lamb - Whole, Frozen,2,25
+23-jul-22,Lamb - Whole- Frozen,2,25
 24-ago-21,Ice Cream Bar - Hagen Daz,2,28
 17-dic-20,Plastic Arrow Stir Stick,2,46
 19-may-20,Longos - Burritos,3,16
@@ -493,13 +493,13 @@ Fecha Ingreso,Producto,Cantidades,Costo Unit
 23-feb-20,Pants Custom Dry Clean,1,26
 5-jul-20,Flower - Commercial Bronze,2,40
 27-abr-22,Carbonated Water - Peach,1,46
-7-abr-20,Basil - Dry, Rubbed,3,13
+7-abr-20,Basil - Dry- Rubbed,3,13
 2-sep-20,Coffee Cup 16oz Foam,3,30
 7-feb-22,Beer - Corona,3,21
 1-jun-22,Fiddlehead - Frozen,3,13
 20-jul-21,Bread - Rolls, Rye,1,41
 30-ene-20,Apple - Granny Smith,3,17
-17-ago-21,Lamb - Whole, Frozen,2,25
+17-ago-21,Lamb - Whole- Frozen,2,25
 26-may-21,Liners - Baking Cups,3,50
 30-may-21,Halibut - Fletches,3,37
 1-sep-20,Lettuce - Lolla Rosa,2,39
@@ -510,18 +510,18 @@ Fecha Ingreso,Producto,Cantidades,Costo Unit
 5-jun-22,Initation Crab Meat,1,28
 6-nov-21,Juice - Lagoon Mango,1,34
 9-sep-21,Foil Wrap,1,24
-1-feb-22,Soup - Canadian Pea, Dry Mix,3,14
+1-feb-22,Soup - Canadian Pea- Dry Mix,3,14
 19-jun-22,Ham - Virginia,2,27
 18-ago-21,Bread - Rye,3,7
 15-may-21,Paper Towel Touchless,2,7
 29-sep-21,Icecream Cone - Areo Chocolate,3,43
 8-ago-20,Wine - Rioja Campo Viejo,3,3
-9-jul-22,Beef - Roasted, Cooked,2,39
+9-jul-22,Beef - Roasted- Cooked,2,39
 18-oct-20,Halibut - Fletches,3,37
 19-feb-21,Wine - Shiraz South Eastern,3,19
 18-sep-20,Apple - Granny Smith,2,17
 21-jun-22,Carbonated Water - Peach,2,46
-4-ene-22,Basil - Dry, Rubbed,1,13
+4-ene-22,Basil - Dry,-Rubbed,1,13
 10-ago-20,Cabbage - Savoy,1,40
 26-oct-20,Coffee Cup 16oz Foam,1,30
 29-dic-20,Juice - Lagoon Mango,3,34
